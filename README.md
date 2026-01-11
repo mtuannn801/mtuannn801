@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Minh Tuấn!
 
-<!--
-**mtuannn801/mtuannn801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a student at **Ho Chi Minh City University of Technology (HCMUT)**  
+💻 Major: **Computer Engineering**  
+🚀 Passionate about programming, technology, and problem solving
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🌱 I’m currently learning **C / C++ / Git / GitHub**
+- 👨‍💻 I’m interested in **Software Development & Computer Systems**
+- 🤝 I’m open to collaborate on **student projects**
+- 🎯 Goal: Become a better engineer step by step
+
+---
+
+## 🛠️ Skills
+- **Languages:** C, C++
+- **Tools:** Git, GitHub, VS Code
+- **OS:** Windows, Linux (basic)
+
+---
+
+## 📂 Projects
+- 📌 *MyFirstProject* – Basic programming project
+- 📌 *Learning Git & GitHub* – Version control practice
+
+---
+
+## 📫 Contact Me
+- 📧 Email: vominhtuan801@gmail.com
+- 🌐 GitHub: https://github.com/mtuannn801
+
+---
+
+⭐ *Thanks for visiting my profile!*
